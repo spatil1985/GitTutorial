@@ -1,0 +1,24 @@
+From 873e4bfbc1ae151c629430531fdc09492d98fbfe Mon Sep 17 00:00:00 2001
+From: spatil1985 <sudip.patil20@gmail.com>
+Date: Sat, 20 Jan 2018 17:51:31 +0530
+Subject: [PATCH 7/7] 2
+
+---
+ GitTutorial/common.txt | 3 +++
+ 1 file changed, 3 insertions(+)
+
+diff --git a/GitTutorial/common.txt b/GitTutorial/common.txt
+index 35fb663..eff3144 100644
+--- a/GitTutorial/common.txt
++++ b/GitTutorial/common.txt
+@@ -2,3 +2,6 @@ Branch 1 Changes
+ Branch 2 Changes 
+ Master Changes
+ 
++=============
++
++Masster Changes
+\ No newline at end of file
+-- 
+2.16.0.windows.2
+
