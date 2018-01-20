@@ -4,6 +4,6 @@ Master Changes
 
 =============
 
-Masster Changes
-Mastter Changes 2
-Master Change 3
+Master Changes
+Master Changes 2
+Master Changes 3
