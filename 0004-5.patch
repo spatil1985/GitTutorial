@@ -1,0 +1,20 @@
+From fe6dcab237d14d90c4a99e9108d22b531024f47e Mon Sep 17 00:00:00 2001
+From: spatil1985 <sudip.patil20@gmail.com>
+Date: Sat, 20 Jan 2018 17:00:27 +0530
+Subject: [PATCH 4/7] 5
+
+---
+ GitTutorial/common.txt | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/GitTutorial/common.txt b/GitTutorial/common.txt
+index a51d979..d35b0ea 100644
+--- a/GitTutorial/common.txt
++++ b/GitTutorial/common.txt
+@@ -1 +1 @@
+-Branch2
+\ No newline at end of file
++Branch 2 Changes 
+-- 
+2.16.0.windows.2
+
