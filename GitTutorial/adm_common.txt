@@ -1,2 +1,2 @@
-Master version
+feature version
 Master version 1.0
