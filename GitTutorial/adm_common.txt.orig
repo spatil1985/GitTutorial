@@ -1,0 +1,17 @@
+feature version
+Master version 1.0
+feature version 2.0
+Master version 2.0
+
+
+================
+feature change 1.0
+
+===============
+
+master change 3.0
+feature change 3.0
+<<<<<<< HEAD
+
+=======
+>>>>>>> b77ead30ff861681707944a7846ad8ba9e2764e7
