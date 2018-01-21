@@ -6,10 +6,10 @@ Master version 2.0
 
 ================
 feature change 1.0
-master change 1
 
 ===============
 master change 3.0
 
 ---------------
 master change 4.0
+
