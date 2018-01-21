@@ -1,2 +1,3 @@
 feature version
 Master version 1.0
+feature version 2.0
