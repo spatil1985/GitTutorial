@@ -1,4 +1,1 @@
-Master Change 1.0
-Master Change 2.0
-Branch change 1.0
-branch Change 2.0
+master change 1.0
